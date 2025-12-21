@@ -221,7 +221,7 @@ for i, movie in enumerate(recommendations):
 """
 
 # Install Streamlit at the beginning to ensure it's available
-!pip install streamlit
+pip install streamlit
 
 import streamlit as st
 import pandas as pd
