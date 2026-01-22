@@ -1,4 +1,4 @@
-DASHBOARD_STREAMLIT = https://d5f5b69240a4.ngrok-free.app/
+DASHBOARD_STREAMLIT = https://movierecommendationsystem-nkqki7m8ums5drvd9t2wjd.streamlit.app/
 ## 📝 Description
 
 Movie Recommendation System_V1 is a data application built with **Streamlit** and designed to run within **Google Colab**. 
